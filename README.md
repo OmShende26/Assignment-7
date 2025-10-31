@@ -1,9 +1,14 @@
 ## Name: Om Vijay Shende
 ## Roll No: CE22B083
 
---Assignmen 7.ipynb: Contain the notebook that performs multi-class model selection using ROC and Precision-Recall curves, focusing on a land cover classification task.
+Assignment-7 Repository
+│
+├── Assignmen 7.ipynb
+│   └── Notebook for multi-class model selection with ROC and Precision-Recall curves on land cover data
+│
+└── README.md
+    └── Detailed information about the repository
 
--- README.md : Contains detailed information related to this repository
 
 ***
 
